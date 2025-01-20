@@ -165,3 +165,4 @@ job_applications/
 
 # Making sure secrets are not added
 data_folder/secrets.yaml
+data_folder/plain_text_resume.yaml
